@@ -15,10 +15,10 @@ El presente proyecto tiene como objetivo realizar un análisis exhaustivo del se
 
 ### Contenido del Repositorio
 
-1. **`notebooks/`**: Contiene el análisis exploratorio de datos (EDA) realizado. Cada paso está documentado en celdas Markdown dentro del notebook, con conclusiones claras basadas en los gráficos y análisis de datos.
+   Contiene el análisis exploratorio de datos (EDA) realizado. Cada paso está documentado en celdas Markdown dentro del notebook, con conclusiones claras basadas en los gráficos y análisis de datos.
    - `ENACOM_data_EDA.ipynb`: Análisis Exploratorio de Datos, cubriendo aspectos como la detección de valores faltantes, outliers y registros duplicados. Se incluyen gráficos descriptivos para interpretar los datos de ENACOM de manera visual.
    
-2. **`dashboards/`**: Dashboard interactivo desarrollado para analizar y visualizar el comportamiento de las telecomunicaciones en Argentina, enfocado en el acceso a internet por provincia. 
+1. Dashboard interactivo desarrollado para analizar y visualizar el comportamiento de las telecomunicaciones en Argentina, enfocado en el acceso a internet por provincia. 
    - Filtros interactivos para explorar los datos por provincia y servicio de telecomunicaciones.
    - Representación gráfica de KPIs clave para el sector.
 
